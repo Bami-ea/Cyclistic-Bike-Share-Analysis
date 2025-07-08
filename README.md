@@ -57,7 +57,7 @@ To explore the differences in riding behavior between **annual members** and **c
 
 ##  Dashboard Preview
 
-[Dashboard Screenshot](./images/dashboard_screenshot.png)
+[Dashboard Screenshot](<img width="1034" alt="Cyclistic Bike Share" src="https://github.com/user-attachments/assets/457138d4-2ff5-4bfb-b447-dc9247acd9d9" />)
 
  [View the full interactive Tableau dashboard here](https://public.tableau.com/views/CyclisticBikeShare_17519964294240/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  
  [Explore the full dataset & SQL scripts](#)
