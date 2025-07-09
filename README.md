@@ -19,7 +19,7 @@ To explore the differences in riding behavior between **annual members** and **c
 
 ##  Tools & Technologies
 
-- **R:** Data cleaning, outlier removal, `member-like casuals` analysis
+- **R:** Data cleaning, outlier removal, data organization, `member-like casuals` analysis
 - **SQL (MySQL):** Data storage, transformations, aggregated summaries
 - **Tableau:** Interactive dashboards and visual storytelling
 - **Google Sheets:** Geocoding station locations (Google Maps API)
@@ -77,7 +77,7 @@ To explore the differences in riding behavior between **annual members** and **c
 
 ##  About Me
 
-Hi I’m **[Ayobami Ayoade]**, a data analyst passionate about using data to drive business strategy.  
+Hi I’m **Ayobami Ayoade**, a data analyst passionate about using data to drive business strategy.  
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ayobamzi/)
 
 ---
