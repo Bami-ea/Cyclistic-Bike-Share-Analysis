@@ -50,14 +50,15 @@ To explore the differences in riding behavior between **annual members** and **c
 
 - **Target “winter-riding casuals”** with personalized offers to become annual members.
 - Promote memberships during seasonal drop-offs to convert loyal casuals.
-- Focus marketing at top casual starting stations.
+- Focus marketing at the top casual starting stations.
 - Offer incentives for longer rides to encourage habitual usage.
 
 ---
 
 ##  Dashboard Preview
 
-[Dashboard Screenshot](<img width="1034" alt="Cyclistic Bike Share" src="https://github.com/user-attachments/assets/457138d4-2ff5-4bfb-b447-dc9247acd9d9" />)
+[Dashboard Screenshot] <img width="1034" alt="Cyclistic Bike Share" src="https://github.com/user-attachments/assets/6438a254-e25f-45a5-858f-68d479d6475d" />
+
 
  [View the full interactive Tableau dashboard here](https://public.tableau.com/views/CyclisticBikeShare_17519964294240/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  
  [Explore the full dataset & SQL scripts](#)
