@@ -20,7 +20,7 @@ To explore the differences in riding behavior between **annual members** and **c
 ##  Tools & Technologies
 
 - **R:** Data cleaning, outlier removal, data organization, `member-like casuals` analysis
-- **SQL (MySQL):** Data storage, transformations, aggregated summaries
+- **SQL (MySQL):** Data storage, data organization, aggregated summaries
 - **Tableau:** Interactive dashboards and visual storytelling
 - **Google Sheets:** Geocoding station locations (Google Maps API)
 
