@@ -68,6 +68,7 @@ To explore the differences in riding behavior between **annual members** and **c
 
 ## Full Project Files  
 [Explore the full dataset, R & SQL scripts](./) 
+This repository contains:
 - Cleaned datasets (`/data`)
 - R scripts for data cleaning & member-like casuals analysis (`/R`)
 - SQL queries for joins & segmentation (`/sql`)
