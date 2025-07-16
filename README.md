@@ -63,23 +63,34 @@ To explore the differences in riding behavior between **annual members** and **c
 
 
  [View the full interactive Tableau dashboard here](https://public.tableau.com/views/CyclisticBikeShare_17519964294240/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  
-([ Explore the full dataset, R & SQL scripts ](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/main))
 
 ---
 
-##  Files
+## Full Project Files  
+[Explore the full dataset, R & SQL scripts](./) → See `/data`, `/sql`, `/R` & `/dashboard`.
+This repository contains:
+- Cleaned datasets (`/data`)
+- SQL queries for joins & segmentation (`/sql`)
+- R scripts for data cleaning & member-like casuals analysis (`/R`)
+- Tableau packaged workbook & screenshots (`/dashboard`)
 
-- `cleaning_script.R` — R scripts for data cleaning & member-like casuals segment
-- `divvy_trips_cleaned.sql` — SQL scripts for joins & summaries
-- `Cyclistic Bike Share.twb` — Tableau packaged workbook
-- `README.md` — Project overview
-- `images/` — Dashboard screenshots
+---
+
+## **Files**
+
+| File/Folder | Description |
+|--------------------------|------------------------------------------------|
+| [`/data`](./data) | `divvy_trips_2019_cleaned.csv`, `top_starting_stations.csv`, `top_ending_stations.csv`, `member_like_casuals.csv` |
+| [`/sql`](./sql) | `01_cleaning.sql`, `02_top_starting_stations.sql`, `03_top_ending_stations.sql`, `04_member_like_casuals.sql` |
+| [`/R`](./R) | `cleaning_script.R` — data cleaning & preparation; `member_like_casuals_analysis.R` — segmenting casuals |
+| [`/dashboard`](./dashboard) | `Cyclistic_Bike_Share.twbx` — Tableau packaged workbook & screenshots |
+| [`README.md`](./README.md) | Project overview, key findings & recommendations |
 
 ---
 
 ##  About Me
 
-Hi I’m **Ayobami Ayoade**, a data analyst passionate about using data to drive business strategy.  
+Hi, I’m **Ayobami Ayoade**, a data analyst passionate about using data to drive business strategy.  
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ayobamzi/)
 
 ---
