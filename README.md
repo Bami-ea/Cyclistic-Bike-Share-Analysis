@@ -67,11 +67,10 @@ To explore the differences in riding behavior between **annual members** and **c
 ---
 
 ## Full Project Files  
-[Explore the full dataset, R & SQL scripts](./) → See `/data`, `/sql`, `/R` & `/dashboard`.
-This repository contains:
+[Explore the full dataset, R & SQL scripts](./) 
 - Cleaned datasets (`/data`)
-- SQL queries for joins & segmentation (`/sql`)
 - R scripts for data cleaning & member-like casuals analysis (`/R`)
+- SQL queries for joins & segmentation (`/sql`)
 - Tableau packaged workbook & screenshots (`/dashboard`)
 
 ---
@@ -81,8 +80,8 @@ This repository contains:
 | File/Folder | Description |
 |--------------------------|------------------------------------------------|
 | [`/data`](./data) | `divvy_trips_2019_cleaned.csv`, `top_starting_stations.csv`, `top_ending_stations.csv`, `member_like_casuals.csv` |
-| [`/sql`](./sql) | `01_cleaning.sql`, `02_top_starting_stations.sql`, `03_top_ending_stations.sql`, `04_member_like_casuals.sql` |
 | [`/R`](./R) | `cleaning_script.R` — data cleaning & preparation; `member_like_casuals_analysis.R` — segmenting casuals |
+| [`/sql`](./sql) | `01_cleaning.sql`, `02_top_starting_stations.sql`, `03_top_ending_stations.sql`, `04_member_like_casuals.sql` |
 | [`/dashboard`](./dashboard) | `Cyclistic_Bike_Share.twbx` — Tableau packaged workbook & screenshots |
 | [`README.md`](./README.md) | Project overview, key findings & recommendations |
 
