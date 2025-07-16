@@ -63,7 +63,7 @@ To explore the differences in riding behavior between **annual members** and **c
 
 
  [View the full interactive Tableau dashboard here](https://public.tableau.com/views/CyclisticBikeShare_17519964294240/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  
- [Explore the full dataset & SQL scripts](#)
+([** Explore the full dataset, R & SQL scripts**](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/main))
 
 ---
 
