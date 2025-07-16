@@ -42,7 +42,9 @@ To explore the differences in riding behavior between **annual members** and **c
 - Identified **493 casual riders** whose behavior mirrors members — these are strong candidates for conversion.
 
  **Top Starting Stations:**  
-- Different popular stations for each group reveal where to focus outreach.
+- Casual riders mostly start at scenic, recreation-friendly locations; members cluster around commuter rail hubs, dense business districts, and live-work neighborhoods.
+- ⁠⁠The pattern shows casuals are likely tourists & locals out for scenic, seasonal leisure rides, while members mostly use the service for daily commuting and last-mile connections between transit and workplaces.
+
 
 ---
 
