@@ -81,7 +81,8 @@ This repository contains:
 
 | File/Folder | Description |
 |--------------------------|------------------------------------------------|
-| [`/data`](./data) | `divvy_trips_2019_cleaned.csv`, `top_starting_stations.csv`, `top_ending_stations.csv`, `member_like_casuals.csv` |
+| [`/data`](./data) | `Divvy_Trips_2019_Cleaned.csv.zip`
+divvy_trips_2019_cleaned.csv`, `top_starting_stations.csv`, `top_ending_stations.csv`, `member_like_casuals.csv` |
 | [`/R`](./R) | `cleaning_script.R` — data cleaning & preparation; `member_like_casuals_analysis.R` — segmenting casuals |
 | [`/sql`](./sql) | `01_cleaning.sql`, `02_top_starting_stations.sql`, `03_top_ending_stations.sql`, `04_member_like_casuals.sql` |
 | [`/dashboard`](./dashboard) | `Cyclistic_Bike_Share.twbx` — Tableau packaged workbook & screenshots |
