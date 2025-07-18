@@ -80,7 +80,7 @@ To explore the differences in riding behavior between **annual members** and **c
 
 | File/Folder | Description |
 |--------------------------|------------------------------------------------|
-| [`/data`](./data) | `Divvy_Trips_2019_Cleaned.csv.zip`, `top_starting_stations.csv`, `top_ending_stations.csv`, `member_like_casuals.csv` |
+| [`/data`](./data) | `Divvy_Trips_2019_Cleaned.csv.zip`, `top_starting_stations.csv`,`casual_member_like.csv` |
 | [`/R`](./R) | `cleaning_script.R` — data cleaning & preparation; `member_like_casuals_analysis.R` — segmenting casuals |
 | [`/sql`](./sql) | `01_cleaning.sql`, `02_top_starting_stations.sql`, `03_top_ending_stations.sql`, `04_member_like_casuals.sql` |
 | [`/dashboard`](./dashboard) | `Cyclistic_Bike_Share.twbx` — Tableau packaged workbook & screenshots |
