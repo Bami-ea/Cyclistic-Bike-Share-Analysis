@@ -69,8 +69,8 @@ To explore the differences in riding behavior between **annual members** and **c
 ## 📂 Explore the full dataset, R & SQL scripts
 
 - [Download Cleaned Dataset (ZIP, 84MB)](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/blob/main/data/Divvy_Trips_2019_Cleaned.csv.zip)
-- [View SQL Scripts](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/main/sql)
 - [Explore R Scripts](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/main/r)
+- [View SQL Scripts](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/main/sql)
 - Tableau packaged workbook & screenshots (`/dashboard`)
 
 ---
@@ -80,9 +80,9 @@ To explore the differences in riding behavior between **annual members** and **c
 
 | File/Folder | Description |
 |--------------------------|------------------------------------------------|
-| [`/data`](./data) | `Divvy_Trips_2019_Cleaned.csv.zip`, `top_starting_stations.csv`,`casual_member_like.csv` |
+| [`/data`](./data) | `Divvy_Trips_2019_Cleaned.csv.zip`, `top_starting_stations.csv,`casual_member_like.csv` |
 | [`/R`](./R) | `cleaning_script.R` — data cleaning & preparation; `member_like_casuals_analysis.R` — segmenting casuals |
-| [`/sql`](./sql) | `01_cleaning.sql`, `02_top_starting_stations.sql`, `03_top_ending_stations.sql`, `04_member_like_casuals.sql` |
+| [`/sql`](./sql) | `Queries used for this project` |
 | [`/dashboard`](./dashboard) | `Cyclistic_Bike_Share.twbx` — Tableau packaged workbook & screenshots |
 | [`README.md`](./README.md) | Project overview, key findings & recommendations |
 
