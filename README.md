@@ -66,12 +66,12 @@ To explore the differences in riding behavior between **annual members** and **c
 
 ---
 
-## 📂 Explore the full dataset, Tableau Workbook, R & SQL scripts
+## 📂 Explore the full dataset, Tableau, R & SQL scripts
 
 - [Download Cleaned Dataset (ZIP, 84MB)](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/blob/main/data/Divvy_Trips_2019_Cleaned.csv.zip)
 - [Explore R Scripts](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/404bb661e2a6178bafd8306610221649353627eb/R)
 - [View SQL Scripts](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/main/sql)
-- [Tableau packaged workbook](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/343192a605f80f45cdc61e5e9364e8304d23209e/dashboard)
+- [Tableau workbook & screenshots](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/343192a605f80f45cdc61e5e9364e8304d23209e/dashboard)
 
 ---
 
@@ -83,7 +83,7 @@ To explore the differences in riding behavior between **annual members** and **c
 | [`/data`](./data) | `Divvy_Trips_2019_Cleaned.csv.zip`, `top_starting_stations.csv,`casual_member_like.csv` |
 | [`/R`](./R) | `cleaning_script.R` — data cleaning & preparation; `member_like_casuals_analysis.R` — segmenting casuals |
 | [`/sql`](./sql) | `Queries used for this project` |
-| [`/dashboard`](./dashboard) | `Cyclistic_Bike_Share.twbx` — Tableau packaged workbook & screenshots |
+| [`/dashboard`](./dashboard) | `Cyclistic_Bike_Share.twbx` — Tableau workbook & screenshots |
 | [`README.md`](./README.md) | Project overview, key findings & recommendations |
 
 ---
