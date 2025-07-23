@@ -71,7 +71,7 @@ To explore the differences in riding behavior between **annual members** and **c
 - [Download Cleaned Dataset (ZIP, 84MB)](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/blob/main/data/Divvy_Trips_2019_Cleaned.csv.zip)
 - [Explore R Scripts](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/404bb661e2a6178bafd8306610221649353627eb/R)
 - [View SQL Scripts](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/main/sql)
-- [Tableau packaged workbook](`/dashboard`)
+- [Tableau packaged workbook](https://github.com/Bami-ea/Cyclistic-Bike-Share-Analysis/tree/343192a605f80f45cdc61e5e9364e8304d23209e/dashboard)
 
 ---
 
